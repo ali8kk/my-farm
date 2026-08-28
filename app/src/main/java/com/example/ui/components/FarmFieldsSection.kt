@@ -322,7 +322,7 @@ fun ModernHarvestPlotTile(
                     contentAlignment = Alignment.Center
                 ) {
                     Image(
-                        painter = painterResource(id = R.drawable.img_empty_soil_tile),
+                        painter = painterResource(id = R.drawable.img_empty_soil_plot_v2),
                         contentDescription = "تربة الحقل الفارغ",
                         modifier = Modifier.fillMaxSize(),
                         contentScale = ContentScale.Crop
