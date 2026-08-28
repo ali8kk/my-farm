@@ -1,0 +1,6 @@
+{
+  "name": "لعبة المزرعة",
+  "description": "لعبة إدارية ممتعة لإدارة المزرعة والمحاصيل والمواشي والمصنع باللغة العربية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
